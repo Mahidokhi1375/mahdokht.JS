@@ -1,4 +1,4 @@
 # mahdokht.JS
-first git
-my name is mahi
+my name is mahdokht and i should learn 
+
 
