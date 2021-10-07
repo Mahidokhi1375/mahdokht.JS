@@ -1,0 +1,12 @@
+I want to give and an example for a mathematical operator 
+
+var num1=24;
+
+var num2=100;
+
+var res1=num1+num2;
+
+alert(res1);
+
+after ctrl + s
+a window will open that calculates the data of the variable
