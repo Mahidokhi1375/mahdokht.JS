@@ -10,3 +10,4 @@ alert(res1);
 
 after ctrl + s
 a window will open that calculates the data of the variable
+alert show a window
