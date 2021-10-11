@@ -1,4 +1,9 @@
 # mahdokht.JS
+about me 
+I started programing when i was 24 years old
+
+
+
 preamble
 
 Iam learning programming by git and visual studio code 
